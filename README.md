@@ -13,7 +13,6 @@ public class bintodeci
   
       int decinum1 =  Integer.parseInt(binNum1, 2);
 
-      System.out.println("The decimal value of " + binNum1 + " is "
-      + decinum1);
+      System.out.println("The decimal value of " + binNum1 + " is " + decinum1);
     }
 }
